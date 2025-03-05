@@ -7,6 +7,18 @@ limit = 150
 category = "cs.DC"
 title = "Container scheduling"
 
+[[sources]]
+limit = 150
+category = "cs.AI"
+title = "Some new methods"
+
+[[sources]]
+limit = 150
+category = "cs.LG"
+title = "Some new methods"
+
+
+
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
 highlight_author = "scripts/highlight_author.rhai"
